@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1BarBar1
 - 👀 I’m interested in Python and AI
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning OpenGL in c++
 
 <!---
 1BarBar1/1BarBar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
